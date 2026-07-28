@@ -1,0 +1,32 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Environment
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Maven Wrapper Logs
+.mvn/wrapper/maven-wrapper.jar
+
+# Build output
+out/
+
+# VS Code
+.vscode/
+
+# IntelliJ caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
